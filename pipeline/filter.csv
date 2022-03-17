@@ -1,1 +1,2 @@
-pipeline,resource,field,pattern
+dataset,resource,field,pattern
+local-planning-authority,,reference,"^[^E0]"
