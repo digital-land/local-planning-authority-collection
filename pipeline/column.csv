@@ -1,4 +1,4 @@
-pipeline,resource,pattern,value
+dataset,resource,column,field
 local-planning-authority,,WKT,geometry
 local-planning-authority,,LPA19CD,reference
 local-planning-authority,,LPA20CD,reference
