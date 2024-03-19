@@ -1,4 +1,4 @@
-# local planning authority collection
+# local planning authority collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/local-planning-authority/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/local-planning-authority-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/local-planning-authority-collection/actions/workflows/run.yml)
